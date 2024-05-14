@@ -8,4 +8,6 @@ class mahasiswa {
         string nama;
 
         void setID();
+
+        void printAll();
 };
